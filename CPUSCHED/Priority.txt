@@ -1,0 +1,15 @@
+Statistics for Run
+
+Number of Processes: 500
+
+Total elapsed time (for the scheduler): 14744
+
+Throughput (Processes per unit time): 21.116
+
+CPU Utilization: 0.716088
+
+Average waiting time (in CPU burst times): 21.46
+
+Average turnaround time (in CPU burst times): 42.576
+
+Average response time (in CPU burst times): 11.374

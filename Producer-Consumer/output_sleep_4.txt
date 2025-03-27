@@ -1,0 +1,13 @@
+Sleep Time Num Producers Num Consumers
+Finished: Sleep time = 4, Producers = 1, Consumers = 1 Overall Turnaround Time = 4000 miliseconds
+Finished: Sleep time = 4, Producers = 4, Consumers = 1 Overall Turnaround Time = 4000 miliseconds
+Finished: Sleep time = 4, Producers = 16, Consumers = 1 Overall Turnaround Time = 4001 miliseconds
+Finished: Sleep time = 4, Producers = 1, Consumers = 2 Overall Turnaround Time = 4000 miliseconds
+Finished: Sleep time = 4, Producers = 4, Consumers = 2 Overall Turnaround Time = 4000 miliseconds
+Finished: Sleep time = 4, Producers = 16, Consumers = 2 Overall Turnaround Time = 4001 miliseconds
+Finished: Sleep time = 4, Producers = 1, Consumers = 4 Overall Turnaround Time = 4000 miliseconds
+Finished: Sleep time = 4, Producers = 4, Consumers = 4 Overall Turnaround Time = 4000 miliseconds
+Finished: Sleep time = 4, Producers = 16, Consumers = 4 Overall Turnaround Time = 4001 miliseconds
+Finished: Sleep time = 4, Producers = 1, Consumers = 16 Overall Turnaround Time = 4000 miliseconds
+Finished: Sleep time = 4, Producers = 4, Consumers = 16 Overall Turnaround Time = 4001 miliseconds
+Finished: Sleep time = 4, Producers = 16, Consumers = 16 Overall Turnaround Time = 4002 miliseconds
