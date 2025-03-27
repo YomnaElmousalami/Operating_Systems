@@ -1,4 +1,4 @@
-# CS 471/571, Problem 2: Producer-Consumer Problem
+# Producer-Consumer Problem
 
 ## Author:
 
