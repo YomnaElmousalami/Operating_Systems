@@ -1,4 +1,4 @@
-# CS 471/571, Problem 1: CPU Scheduling
+# CPU Scheduling
 
 ## Author:
 
